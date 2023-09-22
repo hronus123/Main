@@ -1,6 +1,6 @@
-# Customizable Edition Drop Minting Page
+//# Customizable Edition Drop Minting Page
 
-In this template, we build a page where users can claim NFTs from the [Edition Drop](https://portal.thirdweb.com/pre-built-contracts/edition-drop) contract.
+//In this template, we build a page where users can claim NFTs from the [Edition Drop](https://portal.thirdweb.com/pre-built-contracts/edition-drop) contract.
 
 ## Tools
 
