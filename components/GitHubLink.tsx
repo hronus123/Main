@@ -6,7 +6,7 @@ export default function ThirdwebGuideFooter() {
     <>
       <div
         style={{
-          //position: "fixed",
+          position: "fixed",
           bottom: -120,
           right: -80,
           height: 300,
