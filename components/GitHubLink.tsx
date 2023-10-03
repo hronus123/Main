@@ -11,7 +11,7 @@ export default function ThirdwebGuideFooter() {
           right: -80,
           height: 300,
           width: 150,
-          border: "1px solid #eaeaea",
+          //border: "1px solid #eaeaea",
           transform: "rotate(45deg)",
           backgroundColor: " #262935",
           cursor: "pointer",
