@@ -8,7 +8,7 @@ export default function ThirdwebGuideFooter() {
         style={{
           position: "fixed",
           bottom: -120,
-          right: -80,
+         // right: -80,
           height: 300,
           width: 150,
           border: "1px solid #eaeaea",
