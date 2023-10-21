@@ -9,7 +9,7 @@ export default function ThirdwebGuideFooter() {
           position: "fixed",
           bottom: -120,
           right: -80,
-          height: 300,
+          //height: 300,
           width: 150,
           border: "1px solid #eaeaea",
           transform: "rotate(45deg)",
