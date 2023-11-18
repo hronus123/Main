@@ -10,7 +10,7 @@ export default function ThirdwebGuideFooter() {
           bottom: -120,
           right: -80,
           height: 300,
-         // width: 150,
+          width: 150,
           border: "1px solid #eaeaea",
           transform: "rotate(45deg)",
           backgroundColor: " #262935",
